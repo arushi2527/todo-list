@@ -16,8 +16,7 @@ This project allows users to add, mark as completed, and delete tasks with a cle
 ## Screenshots
 
 ### Main UI
-![App Screenshot](<img width="1737" height="875" alt="Screenshot 2025-08-22 211138" src="https://github.com/user-attachments/assets/35ddebde-0283-4428-b472-6e208dc7354d" />
-)  
+![App Screenshot](todo_list_screenshot.png)
 
 
 ---
